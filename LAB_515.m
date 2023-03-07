@@ -1,6 +1,6 @@
 %% GDA - Lab Assignment
 % Student: LORENZO CARLASSARA 101724
-% emma version
+% emma version 2.0
 %% Data Preprocessing
 close all, clear all, load PZ.mat 
 % help Find_Pol
