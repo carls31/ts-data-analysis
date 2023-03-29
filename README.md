@@ -1,4 +1,4 @@
-# Geospatial Data Analysis - LAB
+# Geospatial Data Analysis - lab
 Laboratory of the course Geospatial Data Analysis at Politecnico di Milano
 
 The provided time series are real data made available by ARPA Veneto, the regional agency for environment protection. The whole dataset
