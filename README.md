@@ -1,6 +1,8 @@
 # Geospatial Data Analysis - lab
 Project Assignment of the course "Geospatial Data Analysis" at Politecnico di Milano
 
+The main source code is avaiable [here](https://github.com/carls31/GDA-Lab/blob/main/LAB_Assignment.m)
+
 The provided time series are real data made available by ARPA Veneto, the regional agency for environment protection. The whole dataset
 is composed by measurements from several boreholes each identified by a numeric ID
 The missing values are removed from the data table and they will be replaced if needed; the features used are:
