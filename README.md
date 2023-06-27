@@ -2,15 +2,15 @@
 Graduate Project Assignment of the course "Geospatial Data Analysis" at Politecnico di Milano
 
 ## Usage
-The main source code is avaiable [here](https://github.com/carls31/GDA-Lab/blob/main/LAB_Assignment.m) and, in order to compare the results, the same analysis was conducted on two additional boreholds: [LAB_515](https://github.com/carls31/GDA-Lab/blob/main/LAB_515.m) and [LAB_518](https://github.com/carls31/GDA-Lab/blob/main/LAB_518.m)
+The main source code is avaiable [here](https://github.com/carls31/GDA-Lab/blob/main/LAB_Assignment.m)
 
-- Execute the main code "LAB_Assigment.m"
+- Execute the source code "LAB_Assigment.m"
 
 - The other file.m are required functions for the main code
 
 - The PZ.mat is the dataset used
 
-- LAB_515 and LAB_518 are two different boreholes analyzed for comparison purposes
+- In order to compare the results the same analysis was conducted on two additional boreholds:[LAB_515](https://github.com/carls31/GDA-Lab/blob/main/LAB_515.m) and [LAB_518](https://github.com/carls31/GDA-Lab/blob/main/LAB_518.m)
 
 - "CARLASSARA_LAB_Assigment_Report.pdf" contains a brief description of the developped script and its output
 
