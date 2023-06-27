@@ -1,6 +1,6 @@
 Geospatial Data Analysis - LAB Assignement: quick introduction
 
-- Execute the main code "CARLASSARA_LAB_Assigment_Code.m"
+- Execute the main code "LAB_Assigment.m"
 
 - The other file.m are required functions for the main code
 
