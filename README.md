@@ -10,7 +10,7 @@ The main source code is avaiable [here](https://github.com/carls31/GDA-Lab/blob/
 
 - The PZ.mat is the dataset used
 
-- In order to compare the results the same analysis was conducted on two additional boreholds:[LAB_515](https://github.com/carls31/GDA-Lab/blob/main/LAB_515.m) and [LAB_518](https://github.com/carls31/GDA-Lab/blob/main/LAB_518.m)
+- In order to compare the results the same analysis was conducted on two additional boreholds: [LAB_515](https://github.com/carls31/GDA-Lab/blob/main/LAB_515.m) and [LAB_518](https://github.com/carls31/GDA-Lab/blob/main/LAB_518.m)
 
 - "CARLASSARA_LAB_Assigment_Report.pdf" contains a brief description of the developped script and its output
 
